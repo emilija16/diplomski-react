@@ -1,0 +1,13 @@
+#add {
+  background-color: #3642c0;
+  border: none;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+table.table.table-bordered {
+  margin-top: 0;
+}

@@ -1,0 +1,18 @@
+h4 {
+  margin-top: 5rem;
+  font-size: 1.8rem;
+  color: #3642c0;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#save {
+  background-color: #3642c0;
+  border: none;
+  margin-left: 15px;
+}
